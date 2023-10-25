@@ -1,5 +1,5 @@
 {
-    "name": " AARU 💖",   
+    "name": " Asʜɪsʜ 💖",   
     "logo": "https://te.legra.ph/file/da880df27058a953ea175.png", 
     "env": {
         "BOT_TOKEN": {
@@ -19,9 +19,9 @@
             "required": true
         },
         "OWNER_ID": {
-            "description": "Your Id Here! For Eg: 54326909.",
+            "description": "Your Id Here! For Eg: 6277238293.",
             "required": true,
-            "value": "5350929381"
+            "value": "6277238293"
         },
         "BOT_NAME": {
             "description": "Simple Bot-name. Do not use Modified Text..",
