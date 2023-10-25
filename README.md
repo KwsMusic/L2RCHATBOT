@@ -23,7 +23,7 @@
 ## 🙏
 - [ᴅᴇᴠᴇʟᴏᴩᴇʀ](https://github.com/KwsMusic/L2RCHATBOT)
 - [ᎧᎮ ᭄𝐌𝐫⛦Asʜɪsʜ࿐](https://telegram.me/II_ASHISH_GUPTA_IIl)
-- [⏤‌•➣♡︎𝐊𝐑𝐈𝐒𝐇𝐍𝐀 ꭙ 𝞄⃕𝖋𝖋꯭ °‌آآ꯭ ᯤ](https://t.me/MUSICBOT_OWNER)
+- [⏤‌•༄𝐿2𝙍.🜲𝗢𝙒𝗡𝐄𝐑❤️ °‌آآ꯭ ᯤ](https://t.me/MUSICBOT_OWNER)
 - [ᎧᎮ ᭄𝐌𝐫⛦Asʜɪsʜ࿐](https://telegram.me/II_ASHISH_GUPTA_IIl)
 - <p align="center"><a href="https://telegram.me/Ajanabee_Duniya"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 - </p><p align="center"><a href="https://telegram.me/ab_krishna_uff"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
