@@ -1,4 +1,4 @@
-#Don't remove This Line From Here. @krishna-aaruchatbot | @DevArora0981
+#Don't remove This Line From Here. @II_ASHISH_GUPTA_IIl-aaruchatbot | @ZIDD_BOT
 #Github :- Devarora0981 | Devarora0987
 import requests
 import random
